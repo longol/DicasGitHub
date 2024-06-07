@@ -3,11 +3,16 @@
 http://lucaslongo.com
 
 ```javascript
-console.log("Hello world!");
+for (let i = 0; i < 10; i++) {
+    console.log(i);
+}
 ```
+
+- This is a
+- Bulleted list
 
 - [ ] Heart 💘
 - [x] Medal 🥇
 
-- This is a
-- Bulleted list
+
+
