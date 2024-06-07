@@ -19,3 +19,9 @@ for (let i = 0; i < 10; i++) {
 🇧🇷
 
 
+| abc | def |
+| --- | --- |
+| bar | baz |
+| car | dfq |
+| bqt | fbk |
+
